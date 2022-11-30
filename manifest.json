@@ -3,8 +3,8 @@
     "short_name":"AWP",
     "start_url":"index.html",
     "display":"standalone",
-    "theme_color":"#FFDF00",
-    "background_color":"#FFDF00",
+    "theme_color":"#0A0F57",
+    "background_color":"#0A5755",
     "icons":[
         {
             "src":"./icon/icono.png",
